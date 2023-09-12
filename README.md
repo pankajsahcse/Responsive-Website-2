@@ -1,1 +1,1 @@
-<img src= "Tecnical.png" >
+ <img src="Tecnical.png" alt="">
